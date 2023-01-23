@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39678ede44d74522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discussion/2023-01-23 - First Steps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pillar.md",
+                "file": "Discussion/2023-01-23 - First Steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pillar.md",
+                "file": "Discussion/2023-01-23 - First Steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pillar.md"
+                "file": "Discussion/2023-01-23 - First Steps.md"
               }
             }
           }
@@ -181,10 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7314fa1696f56268",
+  "active": "39678ede44d74522",
   "lastOpenFiles": [
-    "Adaptive Behavior of Animal Companion.md",
     "Design Pillar.md",
+    "Discussion/2023-01-23 - First Steps.md",
+    "Discussion/First Step.md",
+    "Adaptive Behavior of Animal Companion.md",
     "Base Idea.drawio.png",
     "Companion Mechanic.md",
     "Pet Personality.md",
